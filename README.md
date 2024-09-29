@@ -8,7 +8,11 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
  
  
 ## 📖 Motivação do Projeto...
-   O grupo, após um momento inicial de discussão, visou conciliar áreas de interesse de todos os integrantes. Era alvejada uma temática que tivesse tanto relevância de aplicação na área indústrial quanto um desempenho que não fosse demasiadamente prejudicial ao meio ambiente, além disso buscávamos um objeto de estudo que se destacasse de alguma maneira ao olhar do grupo. Ao buscar um tema que englobasse esses pontos e que apresentasse vantagens para aprofundar o estudo dele, nos deparamos com algumas opções de estudo e tendemos a exploração dos Líquidos Iônicos por alguns motivos, dentre eles a interdisciplinaridade, suas propriedades únicas, avanços em pesquisa, aplicações indústriais e sustentabilidade.
+   Após um momento inicial de discussão, o grupo buscou conciliar as áreas de interesse de todos os integrantes. O objetivo era escolher uma temática que fosse relevante para a indústria e, ao mesmo tempo, não prejudicial ao meio ambiente. Além disso, procurávamos um objeto de estudo que se destacasse aos olhos do grupo. Ao explorar temas que contemplassem esses aspectos e que apresentassem vantagens para um aprofundamento, nos deparamos com a opção de investigar os Líquidos Iônicos. Essa escolha foi motivada pela interdisciplinaridade, suas propriedades únicas, os avanços em pesquisa, as diversas aplicações industriais e seu potencial sustentável.
+  
+  Uma busca constante do meio de produção indústrial é por solventes mais adequados a ao processo de produção, isto é, solventes mais biodegradáveis, mais estáveis e até mais baratos. Os líquidos iônicos apresentam tanto grande estabilidade térmica e baixa viscosidade quanto uma menor volatilidade e maior capacidade de biodegradação, essa são propriedades de demasiado interesse ao se discutir um bom solvente.
+  
+  Portando, diante dos diversos fatores que embasavam um bom campo de investimento em pesquisa aptamos por explorá-lo colocando em prática alguns dos aprendizados na área de aprendizado de máquina, visando a elaboração de uma ferramenta de predição de propriedades de líquidos iônicos a partir da visualização de outras. 
    
  
 ### 🧰 Funcionamento
