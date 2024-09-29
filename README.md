@@ -17,7 +17,7 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
  
 ### 🧰 Funcionamento
 
- `Selecionar Capital`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
+ `Informação dos valores de atributo`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
 
  `Escolher o período de interesse`: É necessário, então, que o usuário opte por um mês, um período e um diaem que gostaria de obter os valores dos parâmetros disponíveis. Escolheremos Janeiro e o período da manhã para analisar.
 
@@ -25,36 +25,33 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
 
  `Sugestão das atividades lúdicas`: Serâo então apresentadas as propostas de atividades, desde que o usuário selecione um dia específico. No caso de Brasília, caso seja escolhido dia 7 para o mês de junho será recomendado caminhada ao ar livre, piquenique e andar de bicicleta. Essas são as sugestões devido ao clima mais ameno nessa época na localidade escolhida teoricamente.
 
- ## ☑️ Check list do que foi utilizado para realizar o trabalho
+ ## ☑️ O que usamos no trabalho?
  
-Para que seja possível possuir o código expresso em gráfico desenvolvido em funcionamente na sua própria máquina, é necessário a disponibilidade de alguns fatores:
+Para que fosse possível analisar os dados referentes ao material de interesse do grupo foram necessários alguns fatores:
 
-`Um banco de dados climáticos`: que no caso o utilizado foi o do INMET (Instituto Nacional de Metereologia);
+`Um dataset sobre Líquidos Iônicos`: que no caso o utilizado foi um fornecido pelo professor Leandro das Merces Silva (link: https://digital.library.unt.edu/ark:/67531/metadc307526/)
 
 `Um caderno de programação`:  o adotado foi o python em sua versão 3.11.6;
 
-`Bibliotecas`: Plotly Python Graphing Library, Dash Documentation, Skicit-Learn, Pillow, OS, Glob e Pandas;
+`Bibliotecas`: Pandas - para tratamento de dados, Skicit-Learn;
+
+`Literatura sobre o tema` : Fizemos a leitura de artigos e trabalhos publicados acerca dos materiais iônicos sobre como são utilizados, sintetizados e como se comportam diante de diferentes situações. (Todos estão documentados na área de referências).
 
 `Referências`: 
 
-Instituto Nacional de Meteorologia - INMET. Disponível em: <https://portal.inmet.gov.br/dadoshistoricos>. ​
-
-PLOTLY. Plotly Python Graphing Library. Disponível em: <https://plotly.com/python/>. ​
-
-Dash Documentation & User Guide | Plotly. Disponível em: <https://dash.plotly.com/>. ​
+Banco de dados sobre Líquidos Iônnicos: (link: https://digital.library.unt.edu/ark:/67531/metadc307526/)​
 
 SCIKIT-LEARN. scikit-learn: machine learning in Python. Disponível em: <https://scikit-learn.org/stable/>. ​
 
-GOOGLE. ‎Gemini - chat to supercharge your ideas. Disponível em: <https://gemini.google.com/>. ​
+.Líquidos Iônicos - Alguns aspectos sobre as propriedades, preparação e aplicações. Disponível em: <https://wp.ufpel.edu.br/wwverde/files/2014/12/L%C3%ADquidos-I%C3%B4nicos.pdf​>. Acesso em: 2 set.2024
 
-OPENAI. ChatGPT (2024). Disponível em: <https://openai.com/>. ​
+Halper, Marin S; Ellenbogen, James C. Supercapacitors: A brief overview. Disponível em: <https://www.mitre.org/sites/default/files/pdf/06_0667.pdf>
 
-ALVES, D. C. A Importância de Brincar para a Saúde Mental da Criança. Disponível em: <https://institutoalceugiraldi.com.br/a-importancia-de-brincar-para-a-saude-mental-da-crianca/>. Acesso em: 25 jun. 2024. ​
+Liu, Huan; Yu, Haijun. Ionic liquids for eletrochemical energy storage devices aplication. Disponível em: <https://www.sciencedirect.com/science/article/abs/pii/S1005030218302640>
+ 
 
-HASHTAG PROGRAMAÇÃO. Criando Dashboards em Python com Dash e Plotly. Disponível em: <https://www.youtube.com/watch?v=aS64PvDqCbU&t=2473s>. Acesso em: 25 jun. 2024. 
 
-
-Por meio do funcionamenteo em conjunto dessas ferramentas, será possível obter o retorno de atividades recreativas recomendadas ao usuário para realizar em harmonia com o padrão climático identificado.
+Por meio do funcionameto em conunto dessas ferramentas é possível garantir o retorno da informação target do material recebendo quatro atributos referentes a ele.
 
 ### ✒️ Autores
 
