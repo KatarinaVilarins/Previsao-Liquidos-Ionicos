@@ -16,7 +16,7 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
 
 
 ### Objetivos
-  Com a aplicação do modelo 
+  Com a aplicação do modelo de predição optado pelo grupo, no caso foi a floresta de decisão, prever a propriedade de polaridade do composto a partir dos demais atributos disponíveis do dataset. Essa informação tornará possível compreender se o material em questão é uma boa opção de supercapacitor. De acordo com o Readme associado ao banco de dados utilizados como referência a letra correspondente a propriedade de polaridade é 'S', então o grupo fará uso das demais para calcular de maneira mais precisa possível o valor dela.
 ### 🧰 Funcionamento
 
  `Informação dos valores de atributo`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
