@@ -13,8 +13,10 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
   Uma busca constante do meio de produção indústrial é por solventes mais adequados a ao processo de produção, isto é, solventes mais biodegradáveis, mais estáveis e até mais baratos. Os líquidos iônicos apresentam tanto grande estabilidade térmica e baixa viscosidade quanto uma menor volatilidade e maior capacidade de biodegradação, essa são propriedades de demasiado interesse ao se discutir um bom solvente.
   
   Portando, diante dos diversos fatores que embasavam um bom campo de investimento em pesquisa aptamos por explorá-lo colocando em prática alguns dos aprendizados na área de aprendizado de máquina, visando a elaboração de uma ferramenta de predição de propriedades de líquidos iônicos a partir da visualização de outras. 
-   
- 
+
+
+### Objetivos
+  Com a aplicação do modelo 
 ### 🧰 Funcionamento
 
  `Informação dos valores de atributo`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
