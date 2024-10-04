@@ -6,7 +6,7 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
 # <h1 align="center"> Previsão Características dos Líquidos Iônicos </h1>
   Esse projeto é voltado para o uso de um dataset referente a Líquidos Iônicos, que em conjunto com um modelo preditivo proposto pelo grupo, possibilita o cálculo de um aspecto desse tipo de material a partir da observação de um padrão existente. Além disso, tem o intuito de documentar os processos de desenvolvimento de códigos e uso de ferramentas que possibilitem um bom desempenho do programa elaborado com conceitos da área de aprendizado de máquina (machine learning).
  
-## Guia ao leitor
+## 🛣 Guia ao leitor 
   Para aqueles que possuem interesse em compreender mais aprofundadamente o projeto, há o arquivo em pdf disponível como o relatório do projeto desenvolvido, o documento possui um resumo, uma introdução, a discussão acerca do desenvolvimento do trabalho além de exploração de termos mais técnicos contendo vantagens e desvantagens de optar pelo modelo de regressão selecionado pelo grupo. Há também nele a metodologia e a coclusão acerca dos resultados obtidos na aplicação do algoritmo desenvolvido.
 
   Outra opção é visualizar o código em operação que está disponibilizado em formato de notebook em python. Nele estão contidos os códigos e breves cometários para esclarecer o papel desempenhado pelas ferramentas utilizadas.
