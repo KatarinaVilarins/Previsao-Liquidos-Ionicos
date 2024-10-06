@@ -18,11 +18,11 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
   
   Uma busca constante do meio de produção indústrial é por solventes mais adequados a ao processo de produção, isto é, solventes mais biodegradáveis, mais estáveis e até mais baratos. Os líquidos iônicos apresentam tanto grande estabilidade térmica e baixa viscosidade quanto uma menor volatilidade e maior capacidade de biodegradação, essa são propriedades de demasiado interesse ao se discutir um bom solvente.
   
-  Portando, diante dos diversos fatores que embasavam um bom campo de investimento em pesquisa aptamos por explorá-lo colocando em prática alguns dos aprendizados na área de aprendizado de máquina, visando a elaboração de uma ferramenta de predição de propriedades de líquidos iônicos a partir da visualização de outras. 
+  Portando, diante dos diversos fatores que embasavam um bom campo de investimento em pesquisa optamos por explorá-lo colocando em prática alguns dos aprendizados na área de aprendizado de máquina, visando a elaboração de uma ferramenta de predição de propriedades de líquidos iônicos a partir da visualização de outras. 
 
 
 ### Objetivos
-  Com a aplicação do modelo de predição optado pelo grupo, no caso foi a floresta de decisão, prever a propriedade de polaridade do composto a partir dos demais atributos disponíveis do dataset. Essa informação tornará possível compreender se o material em questão é uma boa opção de supercapacitor. De acordo com o Readme associado ao banco de dados utilizados como referência a letra correspondente a propriedade de polaridade é 'S', então o grupo fará uso das demais para calcular de maneira mais precisa possível o valor dela.
+  Com a aplicação do modelo de predição optado pelo grupo, no caso foi a floresta de decisão, prever a propriedade de interção da fase processada com o soluto por meio de interações de dispersão (interaction of the process phase with solute through dispersion interactions) a partir dos demais atributos disponíveis do dataset. Essa informação tornará possível compreender se o material em questão é uma boa opção de supercapacitor. De acordo com o Readme associado ao banco de dados utilizados como referência a letra correspondente a propriedade de interesse é 'E', então o grupo fará uso das demais para calcular de maneira mais precisa possível o valor dela.
 ### 🧰 Funcionamento
 
  `Informação dos valores de atributo`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
