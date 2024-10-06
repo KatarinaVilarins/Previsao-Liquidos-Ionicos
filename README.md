@@ -63,5 +63,5 @@ Por meio do funcionameto em conunto dessas ferramentas é possível garantir o r
 
 ### ✒️ Autores
 
-| <img loading="lazy" src="https://avatars.githubusercontent.com/marcotlr" width=115><br> <sub>Marco Tulio<br> [Github](https://github.com/marcotlr) </sub>|  <img loading="lazy" src="https://avatars.githubusercontent.com/KatarinaVilarins" width=115><br><sub>Katarina Vilarins<br> [GitHub](https://github.com/KatarinaVilarins) </sub> |  <img loading="lazy" src="https://avatars.githubusercontent.com/PedroBramante" width=115><br><sub>Pedro Bramante<br> [Github](https://github.com/Andriel24044) </sub> | <img loading="lazy" src="https://avatars.githubusercontent.com/Weigson" width=115><br><sub>Weigson Oleriano<br> [GitHub](https://github.com/Weigson) </sub> |
+| <img loading="lazy" src="https://avatars.githubusercontent.com/marcotlr" width=115><br> <sub>Marco Tulio<br> [Github](https://github.com/marcotlr) </sub>|  <img loading="lazy" src="https://avatars.githubusercontent.com/KatarinaVilarins" width=115><br><sub>Katarina Vilarins<br> [GitHub](https://github.com/KatarinaVilarins) </sub> |  <img loading="lazy" src="https://avatars.githubusercontent.com/PedroBramante" width=115><br><sub>Pedro Bramante<br> [Github](https://github.com/PedroBramante) </sub> | |
 | :---: | :---: | :---: | :---: |
