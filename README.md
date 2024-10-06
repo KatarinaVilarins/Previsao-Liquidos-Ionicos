@@ -7,11 +7,14 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
   Esse projeto é voltado para o uso de um dataset referente a Líquidos Iônicos, que em conjunto com um modelo preditivo proposto pelo grupo, possibilita o cálculo de um aspecto desse tipo de material a partir da observação de um padrão existente. Além disso, tem o intuito de documentar os processos de desenvolvimento de códigos e uso de ferramentas que possibilitem um bom desempenho do programa elaborado com conceitos da área de aprendizado de máquina (machine learning).
  
 ## 🛣 Guia ao leitor 
+
+  O Github serve como repositório do projeto desenvolvido, é possível compreender o trabalho de maneira superficial apenas lendo o Readme em que se encontra, contudo informações adicionais estão disponíveis nos demais arquivos localizados nesse Git.
+  
   Para aqueles que possuem interesse em compreender mais aprofundadamente o projeto, há disponível o relatório do projeto desenvolvido em formato pdf. O documento possui um resumo, uma introdução, a discussão acerca do desenvolvimento do trabalho além de exploração de termos mais técnicos contendo vantagens e desvantagens de optar pelo modelo de regressão selecionado pelo grupo. Há também nele a metodologia e a coclusão acerca dos resultados obtidos na aplicação do algoritmo desenvolvido.
 
-  Outra opção é visualizar o código em operação que está disponibilizado em formato de notebook em python. Nele estão contidos os códigos e breves cometários para esclarecer o papel desempenhado pelas ferramentas utilizadas.
+  Outra opção é visualizar o código em operação que está disponibilizado em formato de notebook em python. Nele estão contidos os códigos e breves cometários para esclarecer o papel desempenhado pelas ferramentas utilizadas e os resultados obtidos, além de discussões acerca deles e dos gráficos visualizados.
 
-  O objetido maior dos documentos é uma autosustentação, de maneira a possibilitar uma melhor compreensão do trabalho por si só!
+  O objetido maior dos documentos é uma autossustentação, de maneira a possibilitar uma melhor compreensão do trabalho por si só!
 
 ## 📖 Motivação do Projeto...
    Após um momento inicial de discussão, o grupo buscou conciliar as áreas de interesse de todos os integrantes. O objetivo era escolher uma temática que fosse relevante para a indústria e, ao mesmo tempo, não prejudicial ao meio ambiente. Além disso, procurávamos um objeto de estudo que se destacasse aos olhos do grupo. Ao explorar temas que contemplassem esses aspectos e que apresentassem vantagens para um aprofundamento, nos deparamos com a opção de investigar os Líquidos Iônicos. Essa escolha foi motivada pela interdisciplinaridade, suas propriedades únicas, os avanços em pesquisa, as diversas aplicações industriais e seu potencial sustentável.
@@ -21,8 +24,8 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
   Portando, diante dos diversos fatores que embasavam um bom campo de investimento em pesquisa optamos por explorá-lo colocando em prática alguns dos aprendizados na área de aprendizado de máquina, visando a elaboração de uma ferramenta de predição de propriedades de líquidos iônicos a partir da visualização de outras. 
 
 
-### Objetivos
-  Com a aplicação do modelo de predição optado pelo grupo, no caso foi a floresta de decisão, prever a propriedade de interção da fase processada com o soluto por meio de interações de dispersão (interaction of the process phase with solute through dispersion interactions) a partir dos demais atributos disponíveis do dataset. Essa informação tornará possível compreender se o material em questão é uma boa opção de supercapacitor. De acordo com o Readme associado ao banco de dados utilizados como referência a letra correspondente a propriedade de interesse é 'E', então o grupo fará uso das demais para calcular de maneira mais precisa possível o valor dela.
+### Objetivo e formulação da pergunta/ hipótese do projeto
+  Com a aplicação do modelo de predição optado pelo grupo, no caso foi a Floresta Aleatória, o objetivo é prever a propriedade de interção da fase processada com o soluto por meio de interações de dispersão (interaction of the process phase with solute through dispersion interactions) a partir dos demais atributos disponíveis do dataset. Essa informação tornará possível elaborar a hipótese de qual seria um material mais ou menos adequado para ser utilizado em aplicações como extração de compostos orgânicos de misturas ou na dissolução de catalisadores em reações químicas. Em conjunto com essa iniciativa, há também o interesse em prever essa propriedade pois ela possui grande dificuldade no processo de medição. De acordo com o Readme associado ao banco de dados utilizados como referência a letra correspondente a propriedade de interesse é 'E', então o grupo fará uso das demais para calcular de maneira mais precisa possível o valor dela.
 ### 🧰 Funcionamento
 
  `Informação dos valores de atributo`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
