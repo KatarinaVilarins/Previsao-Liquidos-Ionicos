@@ -59,6 +59,14 @@ Para que fosse possível analisar os dados referentes ao material de interesse d
 
 Banco de dados sobre Líquidos Iônnicos: (link: https://digital.library.unt.edu/ark:/67531/metadc307526/)​
 
+BIblioteca Pandas. Pandas documentation. Dispoonível em: <https://pandas.pydata.org/docs/>
+
+Python documentation. Disponível em: <https://docs.python.org/3/>
+
+Matplotlib 3.9.2 documentation. Disponível em: <https://matplotlib.org/stable/index.html>
+
+Optuna: A hyperparameter optimization framework.Disponível em: <https://optuna.readthedocs.io/en/stable/index.html>
+
 SCIKIT-LEARN. scikit-learn: machine learning in Python. Disponível em: <https://scikit-learn.org/stable/>. ​
 
 .Líquidos Iônicos - Alguns aspectos sobre as propriedades, preparação e aplicações. Disponível em: <https://wp.ufpel.edu.br/wwverde/files/2014/12/L%C3%ADquidos-I%C3%B4nicos.pdf​>. Acesso em: 2 set.2024
