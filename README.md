@@ -28,13 +28,20 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
   Com a aplicação do modelo de predição optado pelo grupo, no caso foi a Floresta Aleatória, o objetivo é prever a propriedade de interção da fase processada com o soluto por meio de interações de dispersão (interaction of the process phase with solute through dispersion interactions) a partir dos demais atributos disponíveis do dataset. Essa informação tornará possível elaborar a hipótese de qual seria um material mais ou menos adequado para ser utilizado em aplicações como extração de compostos orgânicos de misturas ou na dissolução de catalisadores em reações químicas. Em conjunto com essa iniciativa, há também o interesse em prever essa propriedade pois ela possui grande dificuldade no processo de medição. De acordo com o Readme associado ao banco de dados utilizados como referência a letra correspondente a propriedade de interesse é 'E', então o grupo fará uso das demais para calcular de maneira mais precisa possível o valor dela.
 ### 🧰 Funcionamento
 
- `Informação dos valores de atributo`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
+Para um maior detalhamento do funcionamento do código é possível tanto acessar o notebook disponível quanto o relatório também presente.
 
- `Escolher o período de interesse`: É necessário, então, que o usuário opte por um mês, um período e um diaem que gostaria de obter os valores dos parâmetros disponíveis. Escolheremos Janeiro e o período da manhã para analisar.
+ `Seleção dos atributos e targets`: Primeiro basta escolher quais são as informções que serão utilizadas para prever o target 
 
- `Gráfico será acessado`: Será visto o gráfico que representa o padrão de temperatura e o que mostra a precipitação. No caso do cenário fictício que adotamos, será visualizado o padrão desses parâmetros para o região de Brasília.
+ `Explorar o formato dos dados presente`: É necessário, então, que os dados sejam analisados para avaliar se é necessário ou não a etapa de normalização. Essa etapa é importante também para verificar se o modelo escolhido é adequado para o padrão de dados que estão sendo utilizados
 
- `Sugestão das atividades lúdicas`: Serâo então apresentadas as propostas de atividades, desde que o usuário selecione um dia específico. No caso de Brasília, caso seja escolhido dia 7 para o mês de junho será recomendado caminhada ao ar livre, piquenique e andar de bicicleta. Essas são as sugestões devido ao clima mais ameno nessa época na localidade escolhida teoricamente.
+ `Teste e treino`: Foi feito então a separação dos dados em conjuntos chamados de teste e treino para utilizar então em etapas futuras para a elaboração do código em sua totalidade
+ 
+ `Otimização de hiperparâmetros`: É indispensável para um bom desempenho do modelo que sejam feitos algumas tentativas de ajuste/otimização dos hiperparâmetros
+
+ `Botar em prática`: Então basta só treinar o modelo com os melhores parâmetros e fazer a previsão.
+
+ `Análise do resultado`: Apesar de as etapas anteriores fornecerem um valor para o target selecionado é necessário calcular a relação do que foi previsto com o que de fato é real para conseguir entender o quão bom o desempenho do modelo elaborado é.
+
 
  ## ☑️ O que usamos no trabalho?
  
@@ -44,7 +51,7 @@ Para que fosse possível analisar os dados referentes ao material de interesse d
 
 `Um caderno de programação`:  o adotado foi o python em sua versão 3.11.6;
 
-`Bibliotecas`: Pandas - para tratamento de dados, Skicit-Learn;
+`Bibliotecas`: Pandas - para tratamento de dados, Skicit-Learn; matplotlib e seaborn- para plotagem de gráficos; 
 
 `Literatura sobre o tema` : Fizemos a leitura de artigos e trabalhos publicados acerca dos materiais iônicos sobre como são utilizados, sintetizados e como se comportam diante de diferentes situações. (Todos estão documentados na área de referências).
 
