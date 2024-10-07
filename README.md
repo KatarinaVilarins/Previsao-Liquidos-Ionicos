@@ -10,7 +10,7 @@ O projeto é focado na elaboração de um programa voltado para, com o uso de 4 
 
   O Github serve como repositório do projeto desenvolvido, é possível compreender o trabalho de maneira superficial apenas lendo o Readme em que se encontra, contudo informações adicionais estão disponíveis nos demais arquivos localizados nesse Git.
   
-  Para aqueles que possuem interesse em compreender mais aprofundadamente o projeto, há disponível o relatório do projeto desenvolvido. O documento possui um resumo, uma introdução, a discussão acerca do desenvolvimento do trabalho além de exploração de termos mais técnicos contendo vantagens e desvantagens de optar pelo modelo de regressão selecionado pelo grupo. Há também nele a metodologia e a coclusão acerca dos resultados obtidos na aplicação do algoritmo desenvolvido.
+  Para aqueles que possuem interesse em compreender mais aprofundadamente o projeto, há disponível o relatório do projeto desenvolvido em formato pdf. O documento possui um resumo, uma introdução, a discussão acerca do desenvolvimento do trabalho além de exploração de termos mais técnicos contendo vantagens e desvantagens de optar pelo modelo de regressão selecionado pelo grupo. Há também nele a metodologia e a coclusão acerca dos resultados obtidos na aplicação do algoritmo desenvolvido.
 
   Outra opção é visualizar o código em operação que está disponibilizado em formato de notebook em python. Nele estão contidos os códigos e breves cometários para esclarecer o papel desempenhado pelas ferramentas utilizadas e os resultados obtidos, além de discussões acerca deles e dos gráficos visualizados.
 
